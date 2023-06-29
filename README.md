@@ -1,13 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/parthdatahub/parthdatahub/blob/main/gitbanner.jpg" alt="logo">
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Parth Gajmal</h1>
 <h3 align="center">AI BI Scientist @Sungard Pune, Maharashtra.</h3>
 
-
-<h1 align="center">Hi 👋, I'm Parth Gajmal</h1>
-<h3 align="center">AI BI Scientist @Sungard Pune, Maharashtra.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
