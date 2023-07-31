@@ -12,9 +12,7 @@
 
 - 🔭 I’m currently working on **Data science, machine learning, deep learning, and natural language processing (NLP) projects.**
 
-- 🌱 I’m currently learning **Cutting-edge methodologies and frameworks in ML, DL, and NLP to stay updated with the latest advancements in the AI field.**
-
-- 👯 I’m looking to collaborate on **xciting data-driven projects and research initiatives in the fields of ML, DL, and NLP.**
+- 🌱 I’m looking to collaborate on **xciting data-driven projects and research initiatives in the fields of ML, DL, and NLP.**
 
 - 🤝 I’m looking for help with **Exploring advanced techniques and models, optimizing algorithms, and finding innovative solutions to complex data challenges.**
 
@@ -39,7 +37,7 @@
 <a href="https://twitter.com/https://twitter.com/parthdataland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/parthdataland" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/parthgajmal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parthgajmal/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/datalinkparth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/datalinkparth" height="30" width="40" /></a>
-<a href="https://instagram.com/me.parth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me.parth" height="30" width="40" /></a>
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me.parth" height="30" width="40" /></a>
 <a href="https://medium.com/@prgajmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prgajmal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/1994parthg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1994parthg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/parthdatahub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parthdatahub" height="30" width="40" /></a>
