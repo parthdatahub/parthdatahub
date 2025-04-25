@@ -3,7 +3,7 @@
 </p> -->
 
 <h1 align="center">Hi 👋, I'm Parth Gajmal</h1>
-<h3 align="center"> Sr. Data Scientist @GE</h3>
+<h3 align="center"> Senior Data Scientist & AI Engineer </h3>
 
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/ow94qLGI8WsAAAAC/ai.gif">
